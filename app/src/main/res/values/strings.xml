@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoviesCleanArchitecture</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="release_date"> Release Date </string>
+    <string name="run_time">%s min</string>
+</resources>
